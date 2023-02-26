@@ -3,7 +3,7 @@
 - 🌱 저는 현재 SSAFY 9기 교육생 입니다
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=krkdhs6240)](https://solved.ac/krkdhs6240/)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SWan9710&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SWan9710&show_icons=true&theme=dark)
 
 # 💪Skills
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
