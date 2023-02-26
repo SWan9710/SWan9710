@@ -1,6 +1,6 @@
 ### 파이썬 걸음마 단계의 개발자(예정)😁
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=krkdhs6240@naver.com)](https://solved.ac/krkdhs6240@naver.com/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=krkdhs6240)](https://solved.ac/krkdhs6240/)
 
 <!--
 **SWan9710/SWan9710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
