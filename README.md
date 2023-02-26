@@ -1,4 +1,5 @@
-### 파이썬 걸음마 단계의 개발자(예정)😁
+# 파이썬 걸음마 단계의 개발자(예정)😁
+## Jeong Soo Wan
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=krkdhs6240)](https://solved.ac/krkdhs6240/)
 
@@ -19,5 +20,5 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SWan9710&show_icons=true&theme=radical)
 
-
+# 💪Skills
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=3776AB)
