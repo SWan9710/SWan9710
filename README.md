@@ -1,5 +1,6 @@
 <div align=center>
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:D0A2F7,100:E5D4FF&height=200&section=header&text=Lee%20Sanghun%20😌&fontSize=50)
 
 # 😁 파이썬 걸음마 단계의 개발자(예정) 😁
 # Jeong Soo Wan
