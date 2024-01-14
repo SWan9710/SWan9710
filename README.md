@@ -1,3 +1,6 @@
+<div align=center>
+
+
 # 😁 파이썬 걸음마 단계의 개발자(예정) 😁
 # Jeong Soo Wan
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=krkdhs6240)](https://solved.ac/krkdhs6240/)<br>
@@ -17,3 +20,4 @@
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:krkdhs6240@naver.com)](mailto:krkdhs6240@naver.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:krkdhs3333@gmail.com)](mailto:krkdhs3333@gmail.com)
 
+</div>
