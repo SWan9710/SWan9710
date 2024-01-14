@@ -1,6 +1,6 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:008000,100:E5D4FF&height=200&section=header&text=Jeong%20SooWan%20😁&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:008000,100:0a5c0a&height=200&section=header&text=Jeong%20SooWan%20😁&fontSize=50)
 
 # 😁 파이썬 걸음마 단계의 개발자(예정) 😁
 # Jeong Soo Wan
