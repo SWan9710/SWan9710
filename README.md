@@ -4,7 +4,6 @@
 
 
 <h2>💪Skills</h2>
-<br />
   
 <h3> 📖 Language 📖 </h3>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="python" /> 
