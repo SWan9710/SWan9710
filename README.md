@@ -7,6 +7,7 @@
 
 
 # 💪Skills
+<div align=start>
 ### 📖Language📖
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="python" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" />
@@ -41,6 +42,7 @@
 
 ### 📱Mobile📱
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter" />
+</div>
 
 # :mailbox_with_mail: Contacts
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:krkdhs6240@naver.com)](mailto:krkdhs6240@naver.com)
