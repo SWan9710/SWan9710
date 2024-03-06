@@ -51,8 +51,9 @@
 <h3> 📱 Mobile 📱 </h3>
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter" />
 
+<br />
 
-<h2> :mailbox_with_mail: Contacts </h2>
+# :mailbox_with_mail: Contacts
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:krkdhs6240@naver.com)](mailto:krkdhs6240@naver.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:krkdhs3333@gmail.com)](mailto:krkdhs3333@gmail.com) 
 
